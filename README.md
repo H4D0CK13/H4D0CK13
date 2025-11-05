@@ -1,7 +1,7 @@
 # 👋 Hey there
 
-I’m a backend engineer sailing the seas of **Go**, building reliable and scalable systems that hum like well-tuned engines.  
-I dive into distributed systems, orchestrate clean architectures, and chase performance with a bit of obsession.  
+I'm a backend engineer focused on building reliable, scalable systems with **Go**.  
+I enjoy working with distributed systems, clean architectures, and performance-driven code.
 
 ---
 ### 🧠 My Toolkit
