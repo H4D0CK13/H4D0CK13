@@ -5,10 +5,9 @@ I dive into distributed systems, orchestrate clean architectures, and chase perf
 
 ---
 ### 🧠 My Toolkit
-- **Languages:** Go
-- **Databases:** PostgreSQL, Redis, MongoDB — where data lives and breathes  
-- **Tools & Infrastructure:** Docker, Kubernetes, gRPC, NATS, Kafka, Prometheus, Grafana — the gears behind the curtain  
-- **Cloud & DevOps:** AWS, GitHub Actions, Terraform — shaping the cloud to my will  
+- **Main language:** Go
+- **Databases:** PostgreSQL, Redis, MongoDB
+- **Tools & Infrastructure:** Docker, Kubernetes, gRPC, NATS, Kafka, Prometheus, Grafana
 
 ---
 ### 🧩 How I Work
